@@ -16,7 +16,7 @@
 - DevTools
 - Charles Proxy
 - Jira
-- GitHub, GitLab
+- Git
 
 **Технические знания и навыки**
 - Работа с HTTP-запросами и ответами
